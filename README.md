@@ -38,45 +38,44 @@ https://cyberiatech.netlify.app
 - [Why Cyberia?](#why-cyberia)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Project Structure](#project-structure)
+- [Repository Structure](#repository-structure)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Roadmap](#roadmap)
+- [Project Status](#project-status)
+- [Contributing](#contributing)
+- [License](#license)
 - [What I Learned](#what-i-learned)
 - [Future Goals](#future-goals)
 - [About the Developer](#about-the-developer)
 - [Contact](#contact)
 
 ---
-
 # About
 
 Cyberia is a personal educational platform that I started as a high school student to make technology education more accessible and engaging.
 
-The project brings together structured learning resources, practical lessons, and interactive features to help beginners build a strong foundation in computer science and digital technologies.
+The project brings together structured learning resources, practical lessons, and interactive tools to help beginners build a solid foundation in computer science and digital technologies.
 
-Cyberia is more than a website. It is a long-term project that allows me to improve my programming skills while creating useful learning resources for other students.
+Developing Cyberia allows me to apply what I learn through real-world projects while creating useful educational content for students who are starting their journey in technology.
 
 ---
 
 # Why Cyberia?
 
-While learning programming and cybersecurity, I realized that many beginners struggle to find educational resources that are simple, well organized, and easy to follow.
+While learning programming and cybersecurity, I realized that many beginners struggle to find educational resources that are both easy to understand and well organized.
 
-Some platforms are too advanced for beginners, while others require expensive subscriptions.
+Some platforms are designed for advanced learners, while others require paid subscriptions to access quality content.
 
-I decided to build Cyberia to create a place where students can learn at their own pace through clear lessons and practical activities.
+I created Cyberia to provide a free and beginner-friendly learning platform where students can study at their own pace through clear explanations and practical activities.
 
-Developing this project also helps me apply what I learn in programming and continuously improve my skills as a future computer scientist.
----
+Building this project also helps me strengthen my programming, problem-solving, and software development skills while working on a real application.
+---# Features
 
-# Features
-
-Cyberia is continuously evolving. The platform currently includes educational resources and several features designed to make learning more interactive and accessible.
+Cyberia is continuously evolving to provide an engaging and accessible learning experience for students.
 
 ## Learning Modules
 
-Cyberia provides structured courses covering different areas of computer science and digital technology, including:
+The platform offers structured courses covering different areas of computer science and digital technology, including:
 
 - Computer Fundamentals
 - Digital Literacy
@@ -86,155 +85,174 @@ Cyberia provides structured courses covering different areas of computer science
 - Python Programming
 - Cybersecurity Fundamentals
 
-The lessons are designed for beginners and gradually introduce more advanced concepts.
+Each course is organized progressively, allowing beginners to build their knowledge step by step.
 
 ---
 
 ## Interactive Learning
 
-The platform focuses on helping students learn through practice rather than only reading theory.
+Cyberia focuses on making learning simple, practical, and accessible.
 
-Current learning experiences include:
+Current features include:
 
-- Well-organized lessons
-- Easy navigation
-- Practical examples
+- Structured lessons
 - Beginner-friendly explanations
+- Practical examples
+- Clear and intuitive navigation
+- Responsive design for desktop and mobile devices
 
 ---
 
 ## User Authentication
 
-Cyberia includes a secure authentication system that allows users to create an account and access personalized features.
+Cyberia includes a secure authentication system powered by Firebase Authentication.
 
-Authentication is powered by Firebase Authentication.
+Users can create an account, sign in securely, and access personalized features.
 
 ---
 
 ## Student Dashboard
 
-Each student has access to a personal dashboard where they can:
+Every registered user has access to a personal dashboard where they can:
 
 - Access available courses
-- Continue learning
+- Continue their learning journey
 - Manage their profile
-- Track future learning progress
+- Follow future learning progress
 
 The dashboard will continue to evolve as new features are added.
 
 ---
 
-## Future Features
+## Planned Features
 
-Cyberia is still under active development.
-
-Some planned improvements include:
+Cyberia is actively being developed, and several new features are planned, including:
 
 - Interactive quizzes
-- Final examinations
+- Final assessments
 - Digital certificates
-- AI learning assistant
+- AI-powered learning assistant
 - Learning progress tracking
-- Personalized recommendations
+- Personalized learning recommendations
 
 ---
 
 # Technologies
 
-Cyberia is built with modern web technologies that are widely used in web development.
+Cyberia is built using modern web technologies.
 
 | Technology | Purpose |
 |------------|---------|
-| HTML5 | Structure of the website |
-| CSS3 | User interface and responsive design |
-| JavaScript (ES6+) | Interactive features |
+| HTML5 | Website structure |
+| CSS3 | Styling and responsive design |
+| JavaScript (ES6+) | Interactive functionality |
 | Firebase Authentication | User authentication |
-| Cloud Firestore | Database |
+| Cloud Firestore | Database management |
 | Firebase Storage | File storage |
-| Netlify | Website deployment |
-| Git & GitHub | Version control |
-
----
-
-# Project Structure
-
-The project is organized into different folders to keep the code clean and easy to maintain.
-
-```text
-Cyberia/
-│
-├── assets/
-├── css/
-├── js/
-├── firebase/
-├── pages/
-├── dashboard/
-├── auth/
-├── modules/
-├── docs/
-├── index.html
-└── README.md
-```
-
-As the project grows, new folders and modules are added while keeping the same organized structure.
+| Netlify | Website hosting and deployment |
+| Git | Version control |
+| GitHub | Source code management and collaboration |
 
 ---
 
 # Design Principles
 
-Cyberia is built around a few simple principles:
+Cyberia is developed around a few key principles:
 
-- Simple and intuitive interface
-- Beginner-friendly learning experience
-- Responsive design for all devices
-- Clear organization of educational content
-- Continuous improvement through new features
+- Simplicity
+- Accessibility
+- Beginner-friendly learning
+- Responsive design
+- Well-organized educational content
+- Continuous improvement
 
-These principles guide every new update made to the platform.
+These principles guide every update and new feature added to the platform.
+
+---
+# Repository Structure
+
+The repository is organized to keep the project documentation, visual resources, and other files easy to navigate.
+
+```text
+Cyberia/
+│
+├── README.md
+├── LICENSE
+├── asset/
+│   ├── images/
+│   ├── icons/
+│   └── ...
+│
+├── docs/
+│   ├── documentation files
+│   └── ...
+│
+└── screenshot/
+    ├── home.png
+    ├── courses.png
+    ├── dashboard.png
+    └── ...
+```
+
+### Folder Description
+
+| Folder | Description |
+|---------|-------------|
+| `asset/` | Contains images, icons, and other resources used by the project. |
+| `docs/` | Contains project documentation and additional resources. |
+| `screenshot/` | Contains screenshots of the platform used in this README. |
+| `README.md` | Main documentation of the project. |
+| `LICENSE` | Project license and usage terms. |
+
+This organization keeps the repository clean, making it easier to maintain and understand as the project grows.
+
 ---
 
 # Screenshots
 
-The following images show different parts of the Cyberia platform.
+The `screenshot/` folder contains images showing different parts of the Cyberia platform.
 
-```
-screenshots/
-│
-├── home.png
-├── courses.png
-├── dashboard.png
-├── login.png
-└── mobile.png
-```
+Examples of screenshots include:
 
-> Screenshots will be added as the project continues to evolve.
+- Home page
+- Learning modules
+- Student dashboard
+- Login page
+- Mobile interface (if available)
+
+Screenshots will be updated as new features are developed and the platform continues to evolve.
 
 ---
-
 # Installation
 
-Clone the repository.
+Follow these steps to run Cyberia locally.
+
+## Clone the repository
 
 ```bash
 git clone https://github.com/prototypeX-sys/Cyberia-Project.git
 ```
 
-Move into the project directory.
+## Navigate to the project folder
 
 ```bash
 cd Cyberia-Project
 ```
 
-Open the project using Visual Studio Code.
+## Open the project
+
+Open the project in your preferred code editor, such as Visual Studio Code.
 
 ```bash
 code .
 ```
 
-You can then launch the project using:
+## Run the project
 
-- Live Server (recommended)
-- or simply open `index.html` in your browser.
+Since Cyberia is a front-end web application, you can run it by:
+
+- Using the **Live Server** extension in Visual Studio Code (recommended).
+- Opening the `index.html` file directly in your web browser.
 
 ---
 
@@ -242,105 +260,103 @@ You can then launch the project using:
 
 Cyberia is currently under active development.
 
-The project is regularly updated with new educational content, interface improvements, and additional features.
+The platform is regularly updated with new educational content, interface improvements, bug fixes, and additional features.
 
-The objective is to build a complete learning platform while continuously improving my programming and software development skills.
+### Current Progress
+
+- Responsive user interface
+- Learning modules
+- Firebase Authentication
+- Student dashboard
+- Continuous project improvements
+
+More features will be added as the project evolves.
 
 ---
-
-## Completed
-
-- Responsive website
-- Learning modules
-- User authentication
-- Student dashboard
-- Firebase integration
-- Modern user interface
 
 # Contributing
 
 Cyberia is currently a personal project.
 
-Suggestions and constructive feedback are always welcome and will help improve the platform over time.
+Constructive feedback, suggestions, and bug reports are always welcome.
 
-If you would like to report a bug or suggest a new feature, feel free to open an Issue on GitHub.
+If you find an issue or have an idea to improve the project, feel free to open an Issue on GitHub.
 
 ---
 
 # License
 
-This project is shared for educational and portfolio purposes.
+This project is distributed under the license provided in this repository.
 
-Please do not copy or redistribute the project without permission from the author.
+Please read the `LICENSE` file for more information about permissions and limitations.
+
 ---
-
 # What I Learned
 
-Developing Cyberia has been one of the most valuable learning experiences of my journey in computer science.
+Developing Cyberia has been one of the most valuable projects in my learning journey.
 
-Through this project, I improved my skills in:
+Throughout this project, I strengthened my skills in:
 
-- HTML and CSS
-- JavaScript
+- HTML5 and CSS3
+- JavaScript (ES6+)
 - Responsive Web Design
 - Firebase Authentication
 - Cloud Firestore
 - Git and GitHub
 - User Interface Design
-- Project Organization
+- Project Planning and Organization
 
-Beyond the technical aspects, I also learned how to plan a project, solve problems independently, and continuously improve my work.
-
-Cyberia has shown me that building useful software requires patience, curiosity, and a willingness to keep learning.
+Beyond the technical skills, Cyberia has taught me how to solve problems independently, organize a real-world project, and continuously improve my work through practice and experimentation.
 
 ---
 
 # Future Goals
 
-Cyberia is a long-term project that will continue to grow as I develop new skills.
+Cyberia is a long-term project that will continue to grow as I learn new technologies.
 
-My future objectives include:
+Some of my future objectives include:
 
-- Adding more computer science courses
-- Creating interactive quizzes and examinations
-- Developing an AI assistant for students
-- Offering digital certificates
+- Expanding the number of available courses
+- Adding interactive quizzes and assessments
+- Providing digital certificates for learners
+- Integrating an AI-powered learning assistant
 - Improving accessibility and user experience
-- Building a mobile version of the platform
+- Developing additional features for the student dashboard
+- Optimizing the platform for better performance
 
-My goal is to create a platform that helps students learn technology in a simple and practical way.
+My goal is to create a learning platform that makes technology education more accessible for students.
 
 ---
 
 # About the Developer
 
-## Josaphat T.A Sanogo
+## Josaphat T. A. Sanogo
 
 I am a high school student from Burkina Faso with a strong interest in computer science, cybersecurity, and software development.
 
-I enjoy learning new technologies and applying them to real projects that solve practical problems.
+I enjoy learning new technologies and applying them to practical projects that help me improve my skills while creating useful tools for others.
 
-Cyberia represents both my passion for technology and my desire to make digital education more accessible for students.
-
-Although I am still learning, every new project helps me improve my technical skills and prepares me for future studies in computer science.
+Cyberia reflects both my passion for technology and my commitment to continuous learning. Every new feature is an opportunity to improve as a developer and prepare for future studies in computer science.
 
 ---
 
 # Contact
 
-Website
+If you would like to learn more about Cyberia or connect with me, you can find me here:
+
+**Website**
 
 https://cyberiatech.netlify.app
 
-GitHub
+**GitHub**
 
 https://github.com/prototypeX-sys
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/sanogojosaphat
 
-Portfolio
+**Portfolio**
 
 https://sanogotajosaphatport.netlify.app
 
@@ -348,20 +364,18 @@ https://sanogotajosaphatport.netlify.app
 
 # Acknowledgements
 
-I would like to thank everyone who has encouraged me to continue learning and building projects.
+I would like to thank everyone who has supported and encouraged me throughout my learning journey.
 
-Cyberia is the result of many hours of learning, experimentation, and continuous improvement.
-
-I hope this project will continue to grow and become a useful resource for students interested in technology.
+Cyberia is the result of many hours of learning, experimentation, and continuous improvement. I hope it will continue to grow and become a valuable educational resource for students interested in technology.
 
 ---
 
 <div align="center">
 
-**Cyberia**
+## Cyberia
 
-Learning today. Building tomorrow.
+**Learning Today. Building Tomorrow.**
 
-© 2026 Josaphat T.A Sanogo
+© 2026 Josaphat T. A. Sanogo. All rights reserved.
 
 </div>
