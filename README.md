@@ -588,19 +588,17 @@ https://www.linkedin.com/in/sanogojosaphat
 https://sanogotajosaphatport.netlify.app
 
 ---
-
 # License
 
-**Copyright © 2026 Josaphat T. A. Sanogo**
+Copyright © 2026 Josaphat T. A. Sanogo.
 
-All Rights Reserved.
+CYBERIA is proprietary software.
 
-The production source code of CYBERIA is proprietary and is intentionally not included in this repository.
+The production source code is intentionally private and is not included in this repository.
 
-This repository has been created exclusively for documentation, portfolio presentation, and educational purposes.
+This repository has been created for documentation, portfolio presentation, and educational purposes only.
 
-No part of the software may be copied, redistributed, modified, or used without prior written permission from the copyright holder.
-
+For collaboration, research, or licensing inquiries, please contact the author.
 ---
 
 <div align="center">
