@@ -246,25 +246,45 @@ The following screenshots showcase the main interfaces and learning experience p
 
 ## Homepage
 
-The homepage introduces CYBERIA's mission, learning objectives, and available educational resources.
+The homepage introduces CYBERIA's mission, learning objectives, and available educational resources in both French and English.
 
-![CYBERIA Homepage](screenshots/home.png)
+### French Version
+
+![CYBERIA Homepage French](screenshots/home-fr-desktop.png)
+
+### English Version
+
+![CYBERIA Homepage English](screenshots/home-english.png)
+
+---
+
+## Authentication System
+
+CYBERIA provides a user authentication system that allows learners to create accounts and access personalized features.
+
+![Login Interface](screenshots/login.png)
 
 ---
 
 ## Student Dashboard
 
-The dashboard provides learners with a personalized environment to access courses and monitor their progress.
+The dashboard provides learners with a personalized environment to access courses and monitor their learning progress.
 
-![Student Dashboard](screenshots/dashboard.png)
+![Student Dashboard](screenshots/dashboard1.png)
 
 ---
 
 ## Python Learning Module
 
-The Python section introduces programming concepts through structured lessons and practical examples.
+The Python section introduces programming concepts through structured lessons available in French and English.
 
-![Python Course](screenshots/python-course.png)
+### French Version
+
+![Python Course French](screenshots/python-fr-desktop.png)
+
+### English Version
+
+![Python Course English](screenshots/python-en-desktop.png)
 
 ---
 
@@ -272,15 +292,43 @@ The Python section introduces programming concepts through structured lessons an
 
 The cybersecurity section focuses on digital safety, online threats, and responsible technology usage.
 
-![Cybersecurity Course](screenshots/cybersecurity-course.png)
+### French Version
+
+![Cybersecurity Course French](screenshots/cybersecurity-fr-desktop.png)
+
+### English Version
+
+![Cybersecurity Course English](screenshots/cybersecurity-en-desktop.png)
 
 ---
 
-## Interactive Learning Features
+## AI Learning Assistant
 
-CYBERIA includes educational interfaces designed to support active learning through quizzes, evaluations, and personalized progression.
+CYBERIA includes an AI-powered assistant designed to support learners during their educational journey.
 
-![Quiz System](screenshots/quiz.png)
+![AI Tutor](screenshots/tutor_eng.png)
+
+---
+
+## Learning Progress System
+
+The progress system helps learners visualize their advancement throughout the platform.
+
+![Learning Progress](screenshots/09-progress-fr.png)
+
+---
+
+## About CYBERIA
+
+The platform also includes an information section presenting the project's vision and objectives.
+
+### French Version
+
+![About CYBERIA French](screenshots/about-fr-desktop.png)
+
+### English Version
+
+![About CYBERIA English](screenshots/about-en-desktop.png)
 
 ---
 
