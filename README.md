@@ -1,33 +1,26 @@
 <div align="center">
 
-# CYBERIA
+# CYBERIA — Digital Learning Platform
 
-### Empowering Students Through Accessible Technology Education
+### Making digital education more accessible through structured, practical, and self-paced learning.
 
-*A student-led educational technology platform built to make computer science, programming, cybersecurity, and digital skills more accessible through interactive and self-paced learning.*
-
-<p>
-
+<p align="center">
 <a href="https://cyberiatech.netlify.app">
 <img src="https://img.shields.io/badge/Live_Platform-Visit_CYBERIA-2563eb?style=for-the-badge">
 </a>
-
 <img src="https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Built_By-High_School_Student-blue?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Student--Led_Project-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge">
-
+<p>
+<a href="https://cyberiatech.netlify.app">
+<strong>Visit the Live Platform</strong>
+</a>
 </p>
 
 </div>
@@ -36,581 +29,473 @@
 
 # Executive Summary
 
-CYBERIA is a personal educational technology project that I started while still in high school.
+CYBERIA is a student-led educational technology platform designed to make digital skills more accessible through structured and practical learning.
 
-My goal was not simply to build a website, but to create a learning platform capable of helping beginners develop practical digital skills through structured lessons, interactive assessments, and modern educational tools.
+The project was created with a simple objective: help beginners develop essential technology skills through a learning environment that combines clear explanations, practical activities, and progressive skill development.
 
-As I learned web development, programming, and cybersecurity, I wanted a project that would allow me to apply my knowledge to a real-world challenge instead of limiting myself to small tutorial-based applications.
+Started while I was still in high school, CYBERIA became a real-world application of my interests in software development, cybersecurity, artificial intelligence, and digital education.
 
-Today, CYBERIA has evolved into a growing learning platform that combines computer science education, digital literacy, artificial intelligence, and interactive learning within a single environment.
+The platform currently provides bilingual learning resources in French and English, covering key areas such as:
 
-Although the production source code remains private, this repository documents the project's vision, architecture, development process, and educational objectives.
+- Computer fundamentals
+- Office productivity tools
+- Python programming
+- Cybersecurity awareness
 
----
-
-# Why I Built CYBERIA
-
-Growing up, I realized that many students—especially beginners—struggle to find learning resources that are both accessible and well organized.
-
-Educational content is often scattered across multiple platforms, assumes prior knowledge, or requires paid subscriptions that many students cannot afford.
-
-At the same time, I was learning programming myself.
-
-Rather than building isolated practice projects, I decided to challenge myself by creating something that could both strengthen my technical skills and provide educational value to others.
-
-CYBERIA became that project.
-
-It represents my belief that technology should not only be learned but also used to expand educational opportunities for others.
+Beyond being a learning platform, CYBERIA represents a personal engineering journey: transforming ideas into a functional product while continuously improving my technical, problem-solving, and project management skills.
 
 ---
 
-# Educational Vision
+## Repository Note
 
-I believe that technology education should be:
+This repository serves as a public documentation and showcase space for CYBERIA.
 
-* Accessible to every student.
-* Practical rather than purely theoretical.
-* Progressive enough for complete beginners.
-* Engaging through interaction and experimentation.
-* Continuously improved as both learners and developers grow.
+The production source code is currently private to protect the platform's infrastructure and ongoing development process.
 
-CYBERIA reflects these principles and continues to evolve alongside my own learning journey.
+This repository provides:
+- Project documentation
+- Interface screenshots
+- Technical overview
+- Development journey
+- Future roadmap
+
+The live platform remains publicly accessible through the link above.
 
 ---
+# Why CYBERIA?
 
-# Project Highlights
+While learning programming and cybersecurity, I noticed that many beginners faced difficulties finding learning resources that were structured, accessible, and adapted to their level.
 
-* Student-led educational technology platform
-* Designed and developed while in high school
-* Bilingual learning experience (French / English)
-* Structured computer science learning paths
-* Interactive quizzes and final examinations
-* AI-powered learning assistant
-* Secure authentication system
-* Personalized learner dashboard
-* Certificate generation workflow
-* Responsive user interface
-* Built using modern web technologies and free cloud infrastructure
-* Continuously improved through real-world development experience
+Many existing platforms provide valuable content, but they can often be fragmented across multiple websites, assume previous technical knowledge, or limit access to advanced features behind paid subscriptions.
+
+CYBERIA was created to address this challenge by providing a progressive learning environment where students can:
+
+- Learn essential digital skills from the basics
+- Follow structured learning paths
+- Practice through interactive activities
+- Track their progress
+- Develop confidence through continuous learning
+
+At the same time, CYBERIA became my personal engineering laboratory. Each feature allowed me to apply concepts learned in programming, web development, cybersecurity, and artificial intelligence to a real-world product.
 
 ---
 
 # Platform Overview
 
-| Category             | Current Status |
-| -------------------- | -------------: |
-| Learning Areas       |              6 |
-| Educational Modules  |             44 |
-| Supported Languages  |              2 |
-| AI Tutor             |      Available |
-| Student Dashboard    |      Available |
-| Authentication       |       Firebase |
-| Quizzes              |      Available |
-| Final Examinations   |      Available |
-| Certificate Workflow |      Available |
-| Development Status   |         Active |
+CYBERIA is designed as a bilingual digital learning platform focused on practical technology education.
+
+| Category | Details |
+| --- | --- |
+| Platform Type | Educational Technology Platform |
+| Languages | French and English |
+| Target Users | Beginners, students, and self-learners |
+| Learning Areas | Digital skills, programming, cybersecurity |
+| Authentication | Firebase Authentication |
+| Database | Firebase Firestore |
+| Deployment | Netlify |
+| Development Status | Active Development |
+
+---
+
+## Learning Areas
+
+CYBERIA currently provides learning resources in several technology domains:
+
+### Computer Fundamentals
+
+Introduces learners to essential computer concepts and digital literacy skills.
+
+### Office Productivity
+
+Provides practical training on:
+
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+
+### Python Programming
+
+Introduces programming concepts through beginner-friendly lessons and practical exercises.
+
+### Cybersecurity Fundamentals
+
+Raises awareness about:
+
+- Online safety
+- Digital threats
+- Cybersecurity best practices
+- Responsible technology usage
+
+---
+
+## Platform Objectives
+
+The main objectives of CYBERIA are to:
+
+- Reduce barriers to technology education
+- Provide accessible resources for beginners
+- Encourage independent learning
+- Develop practical digital skills
+- Promote cybersecurity awareness among young learners
 
 ---
 # Core Features
 
-CYBERIA has been designed as an integrated learning platform where students can progressively develop digital and computer science skills through structured educational content, interactive assessments, and personalized learning tools.
-
-Rather than simply presenting information, the platform encourages learners to actively engage with each topic and monitor their own progress.
+CYBERIA was designed to provide a complete and engaging learning experience while remaining lightweight, accessible, and built with free technologies.
 
 ---
 
-## Structured Learning Experience
+## Structured Learning System
 
-Learning resources are organized into progressive courses designed for beginners.
+CYBERIA organizes educational content into progressive learning paths that allow beginners to develop skills step by step.
 
-The platform currently covers:
+Current learning areas include:
 
-* Computer Fundamentals
-* Microsoft Word
-* Microsoft Excel
-* Microsoft PowerPoint
-* Python Programming
-* Cybersecurity Fundamentals
+- Computer Fundamentals
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Python Programming
+- Cybersecurity Fundamentals
 
-Each subject is divided into multiple modules that gradually increase in complexity, allowing students to build confidence before moving to more advanced concepts.
-
----
-
-## Bilingual Learning
-
-To reach a broader audience, CYBERIA is available in both **French** and **English**.
-
-Students can learn using their preferred language while becoming familiar with technical vocabulary used internationally.
-
-This bilingual approach makes the platform more inclusive and prepares learners for future academic and professional opportunities.
+Each learning path is designed to introduce concepts gradually, combining explanations, examples, and practical activities.
 
 ---
 
-## Interactive Quizzes
+## Student Dashboard
 
-Every learning module is followed by interactive quizzes designed to reinforce understanding.
+CYBERIA provides learners with a personalized dashboard to manage their learning journey.
 
-The quiz system allows students to:
+The dashboard allows users to:
 
-* Evaluate their understanding immediately.
-* Identify topics requiring additional review.
-* Learn through immediate feedback.
+- Access available courses
+- Continue previously started lessons
+- Monitor their learning progress
+- View completed modules
+- Navigate through their educational path
 
-The objective is to transform learning from passive reading into active practice.
-
----
-
-## Final Examinations
-
-Each learning path concludes with a comprehensive examination covering the concepts introduced throughout the course.
-
-The examination system has been designed to:
-
-* Measure overall understanding.
-* Encourage revision.
-* Reward consistent learning.
-* Prepare students for certification.
+This system helps learners maintain motivation and visualize their progress over time.
 
 ---
 
-## Certificate Workflow
+## Authentication System
 
-Students who successfully complete course examinations become eligible for a certificate of completion.
+User management is powered by Firebase Authentication, providing secure access to personalized learning features.
 
-The certification process is intended to recognize learning achievements while motivating students to complete entire learning paths.
+Implemented authentication features include:
 
-As the platform continues to evolve, the certification workflow will become increasingly automated and scalable.
+- Email and password authentication
+- Google Sign-In
+- Email verification
+- Password recovery
+- Persistent user sessions
 
----
-
-## AI Learning Assistant
-
-CYBERIA integrates an AI-powered learning assistant that supports students throughout their learning experience.
-
-The assistant can help learners by:
-
-* Explaining difficult concepts.
-* Answering educational questions.
-* Providing additional explanations.
-* Encouraging independent problem-solving.
-
-Rather than replacing teachers, the assistant is designed to complement self-paced learning.
+Authentication allows CYBERIA to provide a personalized experience while managing user-specific learning data.
 
 ---
 
-## Personalized Dashboard
+## Progress Tracking System
 
-Each registered learner has access to a personalized dashboard that centralizes the learning experience.
+CYBERIA includes a progression system designed to encourage consistent learning.
 
-Students can:
+Current features include:
 
-* Access available courses.
-* Resume unfinished lessons.
-* Monitor their learning progress.
-* Access quizzes and examinations.
-* Manage their personal account.
+- Lesson completion tracking
+- Learning progress visualization
+- User advancement indicators
+- Personalized learning data
 
-The dashboard is intended to provide learners with a clear overview of their educational journey.
-
----
-
-## Secure Authentication
-
-CYBERIA uses Firebase Authentication to provide a secure and reliable authentication system.
-
-Supported features include:
-
-* Email and password sign-in.
-* Google Sign-In.
-* Email verification.
-* Password recovery.
-* Persistent login sessions.
-
-Using Firebase allows the platform to deliver secure authentication while remaining accessible through free cloud infrastructure.
+The objective is to transform online learning from a passive experience into an interactive journey.
 
 ---
 
-## Responsive User Interface
+## Interactive Assessments
 
-The platform has been designed to provide a consistent experience across different devices.
+To support active learning, CYBERIA integrates assessment features that help learners evaluate their understanding.
 
-CYBERIA supports:
+Features include:
 
-* Desktop computers
-* Laptops
-* Tablets
-* Smartphones
+- Knowledge quizzes
+- Practice activities
+- Learning evaluations
+- Progress-based assessment
 
-Responsive design ensures that students can continue learning regardless of the device available to them.
-
----
-
-# Design Principles
-
-Several principles guide every decision made during the development of CYBERIA.
-
-### Accessibility
-
-Educational technology should be available regardless of financial resources or geographical location.
-
-### Simplicity
-
-Complex concepts should be presented through clear explanations and intuitive interfaces.
-
-### Practical Learning
-
-Students learn more effectively when they actively apply knowledge instead of only consuming information.
-
-### Continuous Improvement
-
-Both the platform and its developer continue to improve through experimentation, feedback, and real-world experience.
-
-### Scalability
-
-The architecture has been designed so that new courses and educational features can be added as the project evolves.
-
----
-
-# Technology Stack
-
-| Technology              | Purpose                              |
-| ----------------------- | ------------------------------------ |
-| HTML5                   | Semantic structure                   |
-| CSS3                    | Responsive interface                 |
-| JavaScript (ES6+)       | Client-side functionality            |
-| Firebase Authentication | Secure authentication                |
-| Firestore               | User data management                 |
-| Netlify                 | Hosting and deployment               |
-| Netlify Functions       | Secure backend services              |
-| Groq API                | AI learning assistant                |
-| Git                     | Version control                      |
-| GitHub                  | Documentation and project management |
-
----
-
-# Engineering Philosophy
-
-Rather than relying heavily on frameworks, I chose to build CYBERIA using core web technologies.
-
-This approach allowed me to strengthen my understanding of HTML, CSS, JavaScript, software architecture, and problem solving while maintaining a lightweight and maintainable platform.
-
-Every feature added to CYBERIA has also become an opportunity to learn new technologies through real-world implementation instead of isolated exercises.
-# Project Evolution
-
-CYBERIA has evolved gradually through continuous learning and experimentation.
-
-What started as a simple educational website progressively became a complete learning platform as I discovered new technologies and improved my programming skills.
-
-Rather than following a fixed roadmap from the beginning, the project has grown alongside my own journey in computer science.
-
-Each new concept I learned became an opportunity to improve the platform and make it more useful for learners.
-
----
-
-# Challenges
-
-Building CYBERIA has been one of the most challenging learning experiences of my academic journey.
-
-Throughout the project, I encountered technical, educational, and organizational challenges that required patience, research, and continuous experimentation.
-
-Some of the main challenges included:
-
-* Designing an intuitive learning experience for beginners.
-* Organizing dozens of educational modules while keeping the platform easy to navigate.
-* Learning JavaScript by building real features instead of isolated exercises.
-* Implementing secure authentication using Firebase.
-* Integrating artificial intelligence into a web application.
-* Designing responsive interfaces that work across multiple screen sizes.
-* Building a complete educational platform while balancing high school studies.
-
-Each challenge became an opportunity to strengthen my technical skills and improve my approach to software development.
-
----
-
-# Engineering Decisions
-
-Throughout the development of CYBERIA, I made several technical decisions that shaped the current version of the platform.
-
-## Learning by Building
-
-Instead of creating many small practice projects, I decided to dedicate my time to one long-term project that would continuously evolve as my skills improved.
-
-This decision allowed me to experience the complete software development process rather than isolated programming exercises.
-
----
-
-## Keeping the Technology Stack Simple
-
-I intentionally built CYBERIA using core web technologies such as HTML, CSS, and JavaScript.
-
-This approach helped me better understand how modern web applications work before exploring larger frameworks.
-
----
-
-## Building with Accessible Technologies
-
-As a high school student with limited financial resources, I wanted to demonstrate that meaningful educational software can be created using free and accessible technologies.
-
-Whenever possible, I selected services that offered generous free tiers while still allowing the platform to grow.
-
----
-
-## Focusing on Educational Value
-
-Every new feature is evaluated according to one question:
-
-**Will this improve the learning experience?**
-
-This principle guides the evolution of the platform and helps maintain a clear educational purpose.
-
----
-
-# Repository Notice
-
-This repository is intended to document the vision, design, and evolution of CYBERIA.
-
-The production source code is intentionally kept private.
-
-As the platform continues to evolve, I have chosen to protect the implementation while publicly sharing the project's objectives, architecture, screenshots, and technical decisions.
-
-The purpose of this repository is to demonstrate the project's educational impact, software engineering approach, and long-term vision rather than distribute its production code.
-
----
-
-# Why the Source Code is Private
-
-CYBERIA is an actively evolving educational platform that represents several years of continuous learning and development.
-
-At this stage, I have chosen not to publish the production source code.
-
-Instead, this repository focuses on documenting:
-
-* The project's vision.
-* The educational problem it addresses.
-* The design decisions behind the platform.
-* Its technical architecture.
-* Its evolution over time.
-
-The live platform remains publicly accessible, allowing visitors to explore the project while respecting the decision to keep the implementation private.
-
----
-
-# Screenshots
-
-The following screenshots present the current version of CYBERIA.
-
-> Replace the placeholders below with your own screenshots after uploading them to the repository.
-
-## Home Page
-
-![Home](screenshots/home.png)
-
----
-
-## Course Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Learning Modules
-
-![Modules](screenshots/modules.png)
+These tools allow students to identify their strengths and areas requiring improvement.
 
 ---
 
 ## AI Learning Assistant
 
-![AI Tutor](screenshots/ai-tutor.png)
+CYBERIA integrates an AI-powered assistant designed to support learners during their educational journey.
+
+The assistant can help students by:
+
+- Explaining difficult concepts
+- Answering programming-related questions
+- Providing learning guidance
+- Supporting independent study
+
+The AI assistant is designed as a learning support tool that complements educational content and encourages exploration.
+
+---
+# Platform Screenshots
+
+The following screenshots showcase the main interfaces and learning experience provided by CYBERIA.
 
 ---
 
-## Quiz System
+## Homepage
 
-![Quiz](screenshots/quiz.png)
+The homepage introduces CYBERIA's mission, learning objectives, and available educational resources.
 
----
-
-## Final Examination
-
-![Exam](screenshots/exam.png)
+![CYBERIA Homepage](screenshots/home.png)
 
 ---
 
-## Certificate
+## Student Dashboard
 
-![Certificate](screenshots/certificate.png)
+The dashboard provides learners with a personalized environment to access courses and monitor their progress.
 
----
-
-## Mobile Experience
-
-![Mobile](screenshots/mobile.png)
+![Student Dashboard](screenshots/dashboard.png)
 
 ---
 
-# Project Impact
+## Python Learning Module
 
-Although CYBERIA began as a personal learning project, it has gradually become something much more meaningful.
+The Python section introduces programming concepts through structured lessons and practical examples.
 
-It represents my effort to transform what I learn into educational opportunities that can benefit other students.
-
-The project has allowed me to combine programming, educational design, artificial intelligence, and problem solving within a single long-term initiative.
-
-More importantly, it has shown me that technology can be used not only to build software, but also to make knowledge more accessible.
-# Lessons Learned
-
-Developing CYBERIA has been one of the most valuable learning experiences of my journey into computer science.
-
-Beyond writing code, the project taught me how to think critically, solve real problems, and continuously improve through experimentation.
-
-Throughout its development, I strengthened my understanding of:
-
-* Software design and project organization
-* Front-end web development
-* Responsive interface design
-* JavaScript programming
-* User authentication with Firebase
-* AI integration into web applications
-* Version control with Git and GitHub
-* Problem solving through iterative development
-
-More importantly, CYBERIA taught me that meaningful software is not defined by the technologies it uses, but by the problems it helps solve.
+![Python Course](screenshots/python-course.png)
 
 ---
 
-# Skills Developed
+## Cybersecurity Learning Module
 
-Through this project, I have continued developing both technical and personal skills.
+The cybersecurity section focuses on digital safety, online threats, and responsible technology usage.
 
-### Technical Skills
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Responsive Web Design
-* Firebase Authentication
-* Firestore
-* Netlify Deployment
-* AI Integration
-* Git
-* GitHub
-
-### Professional Skills
-
-* Independent Learning
-* Problem Solving
-* Project Planning
-* Research
-* Technical Documentation
-* User-Centered Design
-* Long-Term Project Management
-* Continuous Improvement
+![Cybersecurity Course](screenshots/cybersecurity-course.png)
 
 ---
 
-# Future Vision
+## Interactive Learning Features
 
-CYBERIA is not a finished project.
+CYBERIA includes educational interfaces designed to support active learning through quizzes, evaluations, and personalized progression.
 
-It is a long-term educational initiative that will continue evolving as I expand my knowledge in computer science.
-
-Future development will focus on:
-
-* Improving the AI learning assistant.
-* Expanding the catalog of educational content.
-* Creating more interactive learning experiences.
-* Enhancing learner analytics.
-* Improving accessibility.
-* Introducing additional STEM disciplines.
-* Building more personalized learning experiences.
-
-My objective is to transform CYBERIA into a platform capable of helping more students discover technology, develop practical skills, and prepare for future academic and professional opportunities.
+![Quiz System](screenshots/quiz.png)
 
 ---
 
-# About the Developer
+# Technical Architecture
 
-## Josaphat T. A. Sanogo
-
-I am a high school student from Burkina Faso with a strong interest in computer science, cybersecurity, artificial intelligence, and educational technology.
-
-I enjoy transforming ideas into practical software that addresses real-world challenges.
-
-Rather than limiting my learning to tutorials or classroom exercises, I prefer building projects that continuously evolve alongside my technical knowledge.
-
-CYBERIA represents this philosophy.
-
-It is both a reflection of my learning journey and my commitment to using technology to create meaningful educational opportunities for others.
-
-As I continue my studies, I hope to deepen my knowledge in software engineering, cybersecurity, and artificial intelligence while contributing to technologies that create positive social impact.
+CYBERIA was built using modern web technologies while maintaining a lightweight architecture suitable for free deployment and accessibility.
 
 ---
 
-# Career Goals
+## Frontend
 
-My long-term goal is to study Computer Science at an international university and contribute to the development of secure, intelligent, and accessible technologies.
+The user interface is developed with:
 
-I aspire to become a software engineer specializing in cybersecurity and artificial intelligence while continuing to build educational solutions that empower learners around the world.
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Responsive Web Design principles
 
-CYBERIA is one of the first steps in that journey.
+The frontend focuses on providing a simple, accessible, and responsive learning experience across different devices.
 
 ---
 
-# Acknowledgements
+## Backend and Cloud Services
 
-CYBERIA would not exist without the countless hours spent learning, experimenting, making mistakes, and continuously improving.
+CYBERIA uses Firebase services to manage user accounts and application data.
 
-Every challenge encountered during its development became an opportunity to grow both technically and personally.
+Implemented services:
 
-I remain grateful to the educational communities, open educational resources, and technology platforms that have made self-learning possible.
+- Firebase Authentication
+- Firebase Firestore Database
+
+These services allow the platform to provide personalized features while maintaining a scalable cloud-based architecture.
+
+---
+
+## Deployment
+
+The platform is deployed using:
+
+- Netlify Hosting
+
+This enables fast, reliable, and accessible delivery of the educational platform.
+
+---
+
+## Development Tools
+
+Main development tools used:
+
+- Visual Studio Code
+- Git and GitHub
+- Browser Developer Tools
+- Firebase Console
+
+The project was developed through continuous learning, testing, and improvement.
+
+# Security and User Management
+
+Security is an important aspect of CYBERIA, especially because the platform handles user accounts and learning progress data.
+
+Firebase services are used to provide authentication and cloud data management while following secure development practices.
+
+---
+
+## Implemented Security Features
+
+Current security-related features include:
+
+- User authentication management
+- Protected user sessions
+- Cloud-based data storage
+- User-specific learning data management
+
+---
+
+## Planned Security Improvements
+
+As CYBERIA continues to evolve, future improvements will include:
+
+- Stronger database security rules
+- Additional input validation
+- Improved protection against common web vulnerabilities
+- Enhanced privacy and data management practices
+
+Security will remain a continuous improvement process throughout the development of the platform.
+
+---
+
+# Development Journey
+
+CYBERIA represents more than a technical project; it is a practical learning journey.
+
+The platform was started while I was still in high school as an opportunity to apply my knowledge of programming and technology to a real-world problem.
+
+Through the development of CYBERIA, I have gained experience in:
+
+- Frontend web development
+- Firebase integration
+- User authentication systems
+- Project architecture
+- UI/UX design
+- Educational technology design
+- Problem solving and independent learning
+
+Building CYBERIA allowed me to move beyond tutorials and create a complete digital product designed for real users.
+
+---
+
+# Future Roadmap
+
+CYBERIA is continuously evolving, with several improvements planned for future versions.
+
+## Educational Improvements
+
+Future educational features include:
+
+- More advanced programming courses
+- Additional cybersecurity content
+- Interactive exercises
+- Expanded learning paths
+- Improved assessment systems
+
+---
+
+## Platform Improvements
+
+Technical improvements planned include:
+
+- Better accessibility support
+- Performance optimization
+- Progressive Web App (PWA) development
+- Enhanced user experience
+- Improved platform scalability
+
+---
+
+## Community Development
+
+Future versions may include:
+
+- Learner collaboration features
+- Community learning spaces
+- Mentorship opportunities
+- Technology education initiatives
+
+---
+
+# Vision and Impact
+
+CYBERIA aims to contribute to a future where technology education is more accessible, practical, and inclusive.
+
+By combining digital skills training, programming education, and cybersecurity awareness, the platform seeks to help learners build the knowledge and confidence needed to participate in the digital world.
+
+The long-term vision is to transform CYBERIA into a broader educational ecosystem that empowers students to learn, create, and innovate through technology.
+
+# About the Creator
+
+CYBERIA was created by **Josaphat Sanogo**, a student passionate about cybersecurity, artificial intelligence, software development, and digital education.
+
+The project reflects a personal commitment to using technology as a tool for solving real-world challenges and increasing access to quality learning opportunities.
+
+Beyond CYBERIA, Josaphat is also the co-founder of **CyberMinds**, a STEM and technology initiative focused on encouraging programming, cybersecurity awareness, and technology education among young learners.
+
+Through these projects, the goal is to inspire students to explore technology, develop practical skills, and create solutions that can have a positive impact.
+
+---
+
+# Project Links
+
+## Live Platform
+
+https://cyberiatech.netlify.app
+
+## Portfolio
+
+https://sanogotajosaphatport.netlify.app
+
+## GitHub
+
+https://github.com/prototypeX-sys
 
 ---
 
 # Contact
 
-If you would like to learn more about CYBERIA or my work, you can reach me through the following platforms.
+For questions, feedback, or collaboration opportunities:
 
-**Website**
+Email:
 
-https://cyberiatech.netlify.app
-
-**GitHub**
-
-https://github.com/prototypeX-sys
-
-**LinkedIn**
-
-https://www.linkedin.com/in/sanogojosaphat
-
-**Portfolio**
-
-https://sanogotajosaphatport.netlify.app
+sanogojosaphat@gmail.com
 
 ---
-# License
 
-Copyright © 2026 Josaphat T. A. Sanogo.
+# License and Usage
 
-CYBERIA is proprietary software.
+This repository is intended for documentation and project showcase purposes.
 
-The production source code is intentionally private and is not included in this repository.
+The CYBERIA platform and its associated resources are developed for educational purposes.
 
-This repository has been created for documentation, portfolio presentation, and educational purposes only.
+The production source code is currently private while development continues.
 
-For collaboration, research, or licensing inquiries, please contact the author.
 ---
 
-<div align="center">
+# Acknowledgments
 
-# CYBERIA
+CYBERIA was built with the support of modern web technologies, open-source tools, and educational resources that make technology development more accessible.
 
-### Learning Today. Building Tomorrow.
+Special appreciation goes to the developer communities and learning platforms that contribute to the global sharing of knowledge in programming, cybersecurity, and digital innovation.
 
-*"Every great journey in technology begins with curiosity, continues through perseverance, and grows by creating solutions that make a difference."*
+---
 
-Developed by **Josaphat T. A. Sanogo**
+# Conclusion
 
-Burkina Faso • 2026
+CYBERIA represents the intersection of technology, education, and social impact.
 
-</div>
+Created as a student-led initiative, the project demonstrates how continuous learning and technology can be transformed into a practical solution for real-world challenges.
+
+The platform will continue to evolve through new features, expanded educational content, and future initiatives focused on empowering learners with essential digital skills.
