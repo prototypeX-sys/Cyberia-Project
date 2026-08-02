@@ -470,7 +470,7 @@ For questions, feedback, or collaboration opportunities:
 
 Email:
 
-sanogojosaphat@gmail.com
+sanogotajosaphat2@gmail.com
 
 ---
 
